@@ -8,31 +8,33 @@
     "dark": "#1D4ED8"
   },
   "favicon": "/favicon.svg",
-  "navigation": [
-    {
-      "group": "Einführung",
-      "pages": [
-        "index"
-      ]
-    },
-    {
-      "group": "Häufig gestellte Fragen",
-      "pages": [
-        "faq/gremium",
-        "faq/projektbeteiligte",
-        "faq/gremium-anlegen",
-        "faq/protokoll-anlegen",
-        "faq/protokollkopf",
-        "faq/teilnehmer-anwesenheit",
-        "faq/protokollpunkt-aendern",
-        "faq/farbige-punkte",
-        "faq/zauberstab",
-        "faq/punkt-schliessen",
-        "faq/pdf-export",
-        "faq/gliederungsleiste"
-      ]
-    }
-  ],
+  "navigation": {
+    "groups": [
+      {
+        "group": "Erste Schritte",
+        "pages": [
+          "index"
+        ]
+      },
+      {
+        "group": "Häufig gestellte Fragen",
+        "pages": [
+          "faq/gremium",
+          "faq/projektbeteiligte", 
+          "faq/gremium-anlegen",
+          "faq/protokoll-anlegen",
+          "faq/protokollkopf",
+          "faq/teilnehmer-anwesenheit",
+          "faq/protokollpunkt-aendern",
+          "faq/farbige-punkte",
+          "faq/zauberstab",
+          "faq/punkt-schliessen",
+          "faq/pdf-export",
+          "faq/gliederungsleiste"
+        ]
+      }
+    ]
+  },
   "logo": {
     "light": "/favicon.svg",
     "dark": "/favicon.svg"
