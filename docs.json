@@ -19,6 +19,7 @@
       {
         "group": "Häufig gestellte Fragen",
         "collapsible": true,
+        "collapsed": true,
         "pages": [
           "faq/gremium",
           "faq/projektbeteiligte", 
