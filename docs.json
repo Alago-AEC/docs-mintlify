@@ -47,13 +47,7 @@
           "faq/pdf-export"
         ]
       },
-      {
-        "group": "Changelog",
-        "pages": [
-          "undex",
-          "zundex"
-        ]
-      },
+      
       {
         "group": "Häufig gestellte Fragen",
         "collapsible": true,
