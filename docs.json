@@ -63,9 +63,16 @@
       },
       {
         "group": "Changelog",
+        "collapsible": true,
+        "collapsed": true,
         "pages": [
-          "changelog/v2-1-0",
-          "changelog/v2-0-0"
+          {
+            "group": "Changelog",
+            "pages": [
+              "changelog/v2-1-0",
+              "changelog/v2-0-0"
+            ]
+          }
         ]
       },
       
