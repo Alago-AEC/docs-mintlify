@@ -28,7 +28,7 @@
       },
       {
         "group": "Protokolle",
-        "icon": "wand-magic-sparkles",
+        "icon": "clipboard-list",
         "pages": [
           "faq/protokoll-anlegen",
           "faq/protokollkopf",
