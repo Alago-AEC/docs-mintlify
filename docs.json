@@ -59,9 +59,6 @@
         "collapsible": true,
         "collapsed": true,
         "pages": [
-          "faq/gremium",
-          "faq/projektbeteiligte",
-          "faq/gremium-anlegen",
           "faq/protokoll-anlegen",
           "faq/protokollkopf",
           "faq/teilnehmer-anwesenheit",
