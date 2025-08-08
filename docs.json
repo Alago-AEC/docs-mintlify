@@ -16,13 +16,7 @@
           "index"
         ]
       },
-      {
-        "group": "Development",
-        "pages": [
-          "undex",
-          "zundex"
-        ]
-      },
+      
       {
         "group": "Gremien",
         "icon": "users",
@@ -51,6 +45,13 @@
           "faq/zauberstab",
           "faq/themen-finder",
           "faq/pdf-export"
+        ]
+      },
+      {
+        "group": "Changelog",
+        "pages": [
+          "undex",
+          "zundex"
         ]
       },
       {
