@@ -84,7 +84,7 @@
               {
                 "group": "FAQ",
                 "pages": [
-                  { "name": "Wie erstelle ich einen Protokollkopf?", "page": "faq/protokollkopf" },
+                  "faq/protokollkopf-faq",
                   "faq/teilnehmer-anwesenheit",
                   "faq/farbige-punkte",
                   "faq/zauberstab-faq",
