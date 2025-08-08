@@ -36,17 +36,17 @@
           "faq/teilnehmer-anwesenheit",
           "faq/protokollpunkt-aendern",
           "faq/punkt-schliessen",
-          "faq/gliederungsleiste"
+          "faq/gliederungsleiste",
+          "faq/pdf-export"
         ]
       },
       {
-        "group": "KI & Suche",
+        "group": "KI-Werkzeuge",
         "icon": "wand-magic-sparkles",
         "pages": [
           "faq/ki-protokollierung",
           "faq/zauberstab",
-          "faq/themen-finder",
-          "faq/pdf-export"
+          "faq/themen-finder"
         ]
       },
       {
