@@ -17,6 +17,12 @@
         ]
       },
       {
+        "group": "Development",
+        "pages": [
+          "index"
+        ]
+      },
+      {
         "group": "Häufig gestellte Fragen",
         "collapsible": true,
         "collapsed": true,
