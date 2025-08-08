@@ -51,7 +51,7 @@
       },
       {
         "group": "Detektiv",
-        "icon": "search",
+        "icon": "wand-magic-sparkles",
         "pages": [
           "detektiv/index"
         ]
