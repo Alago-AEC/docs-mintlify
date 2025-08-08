@@ -87,7 +87,7 @@
               "faq/protokollkopf",
               "faq/teilnehmer-anwesenheit",
               "faq/farbige-punkte",
-              "faq/zauberstab",
+              { "name": "Wie funktioniert der Zauberstab?", "page": "faq/zauberstab" },
               "faq/punkt-schliessen",
               "faq/themen-finder",
               "faq/pdf-export",
