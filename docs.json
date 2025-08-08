@@ -53,10 +53,8 @@
         "collapsible": true,
         "collapsed": true,
         "pages": [
-          "faq/protokoll-anlegen",
           "faq/protokollkopf",
           "faq/teilnehmer-anwesenheit",
-          "faq/protokollpunkt-aendern",
           "faq/farbige-punkte",
           "faq/zauberstab",
           "faq/punkt-schliessen",
