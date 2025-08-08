@@ -51,7 +51,6 @@
       },
       {
         "group": "Detektiv",
-        "icon": "search-search",
         "pages": [
           "detektiv/index"
         ]
