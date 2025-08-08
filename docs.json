@@ -24,6 +24,36 @@
         ]
       },
       {
+        "group": "Gremien",
+        "icon": "users",
+        "pages": [
+          "faq/gremium",
+          "faq/projektbeteiligte",
+          "faq/gremium-anlegen"
+        ]
+      },
+      {
+        "group": "Protokolle",
+        "icon": "file-text",
+        "pages": [
+          "faq/protokoll-anlegen",
+          "faq/protokollkopf",
+          "faq/teilnehmer-anwesenheit",
+          "faq/protokollpunkt-aendern",
+          "faq/punkt-schliessen",
+          "faq/gliederungsleiste"
+        ]
+      },
+      {
+        "group": "KI & Suche",
+        "icon": "wand-magic-sparkles",
+        "pages": [
+          "faq/zauberstab",
+          "faq/themen-finder",
+          "faq/pdf-export"
+        ]
+      },
+      {
         "group": "Häufig gestellte Fragen",
         "collapsible": true,
         "collapsed": true,
