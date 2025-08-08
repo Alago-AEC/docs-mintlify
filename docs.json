@@ -51,14 +51,14 @@
       },
       {
         "group": "Detektiv",
-        "icon": "file-search",
+        "icon": "search",
         "pages": [
           "detektiv/index"
         ]
       },
       {
         "group": "Aufgabenmanagement",
-        "icon": "list-checks",
+        "icon": "check-square",
         "pages": [
           "aufgabenmanagement/index"
         ]
