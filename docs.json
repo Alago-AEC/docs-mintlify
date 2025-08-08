@@ -27,6 +27,20 @@
         ]
       },
       {
+        "group": "Detektiv",
+        "icon": "search",
+        "pages": [
+          "detektiv/index"
+        ]
+      },
+      {
+        "group": "Aufgabenmanagement",
+        "icon": "check-square",
+        "pages": [
+          "aufgabenmanagement/index"
+        ]
+      },
+      {
         "group": "Protokolle",
         "icon": "clipboard-list",
         "pages": [
