@@ -58,7 +58,6 @@
       },
       {
         "group": "Aufgabenmanagement",
-        "icon": "list-checks",
         "pages": [
           "aufgabenmanagement/index"
         ]
