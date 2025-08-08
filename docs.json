@@ -30,6 +30,7 @@
         "group": "Protokolle",
         "icon": "clipboard-list",
         "pages": [
+          "faq/protokoll",
           "faq/protokoll-anlegen",
           "faq/protokollkopf",
           "faq/teilnehmer-anwesenheit",
@@ -42,6 +43,7 @@
         "group": "KI & Suche",
         "icon": "wand-magic-sparkles",
         "pages": [
+          "faq/ki-protokollierung",
           "faq/zauberstab",
           "faq/themen-finder",
           "faq/pdf-export"
