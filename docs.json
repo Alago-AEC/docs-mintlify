@@ -28,7 +28,7 @@
       },
       {
         "group": "Protokolle",
-        "icon": "file-text",
+        "icon": "notebook-text",
         "pages": [
           "faq/protokoll-anlegen",
           "faq/protokollkopf",
