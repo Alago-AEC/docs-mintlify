@@ -28,19 +28,36 @@
         "collapsible": true,
         "collapsed": true,
         "pages": [
-          "faq/gremium",
-          "faq/projektbeteiligte", 
-          "faq/gremium-anlegen",
-          "faq/protokoll-anlegen",
-          "faq/protokollkopf",
-          "faq/teilnehmer-anwesenheit",
-          "faq/protokollpunkt-aendern",
-          "faq/farbige-punkte",
-          "faq/zauberstab",
-          "faq/punkt-schliessen",
-          "faq/themen-finder",
-          "faq/pdf-export",
-          "faq/gliederungsleiste"
+          {
+            "group": "Gremien",
+            "icon": "users",
+            "pages": [
+              "faq/gremium",
+              "faq/projektbeteiligte",
+              "faq/gremium-anlegen"
+            ]
+          },
+          {
+            "group": "Protokolle",
+            "icon": "file-text",
+            "pages": [
+              "faq/protokoll-anlegen",
+              "faq/protokollkopf",
+              "faq/teilnehmer-anwesenheit",
+              "faq/protokollpunkt-aendern",
+              "faq/punkt-schliessen",
+              "faq/gliederungsleiste"
+            ]
+          },
+          {
+            "group": "KI & Suche",
+            "icon": "wand-magic-sparkles",
+            "pages": [
+              "faq/zauberstab",
+              "faq/themen-finder",
+              "faq/pdf-export"
+            ]
+          }
         ]
       }
     ]
