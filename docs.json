@@ -81,19 +81,19 @@
         "collapsible": true,
         "collapsed": true,
         "pages": [
-          {
-            "group": "FAQ",
-            "pages": [
-              "faq/protokollkopf",
-              "faq/teilnehmer-anwesenheit",
-              "faq/farbige-punkte",
-              { "name": "Wie funktioniert der Zauberstab?", "page": "faq/zauberstab" },
-              "faq/punkt-schliessen",
-              "faq/themen-finder",
-              "faq/pdf-export",
-              "faq/gliederungsleiste"
-            ]
-          }
+              {
+                "group": "FAQ",
+                "pages": [
+                  "faq/protokollkopf",
+                  "faq/teilnehmer-anwesenheit",
+                  "faq/farbige-punkte",
+                  "faq/zauberstab-faq",
+                  "faq/punkt-schliessen",
+                  "faq/themen-finder",
+                  "faq/pdf-export",
+                  "faq/gliederungsleiste"
+                ]
+              }
         ]
       }
     ]
