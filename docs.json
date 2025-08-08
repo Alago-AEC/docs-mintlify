@@ -41,7 +41,7 @@
         ]
       },
       {
-        "group": "KI-Werkzeug",
+        "group": "KI-Werkzeuge",
         "icon": "wand-magic-sparkles",
         "pages": [
           "faq/ki-protokollierung",
@@ -51,7 +51,7 @@
       },
       {
         "group": "Detektiv",
-        "icon": "wand-magic-sparkles",
+        "icon": "search",
         "pages": [
           "detektiv/index"
         ]
