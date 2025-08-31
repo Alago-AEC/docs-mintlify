@@ -1,55 +1,39 @@
 ---
-title: 'Version: 2.2.0'
-description: 'Changelog für Version 2.2.0 – 22. August 2025'
+title: "Version: 2.2.0"
+description: "Changelog für Version 2.2.0 – 31. August 2025"
 ---
+
+### Neue Funktionen
+
+#### 📋 Aufgabenliste im Protokoll
+
+- **Offene Aufgaben im Termin: **Innerhalb der Protokolle sind Aufgaben-Listen nun separat verfügbar und enthalten alle offenen Punkte dieser Protokollserie zum Stand des jeweiligen Besprechungstermins.
+
+#### ⚙️ PDF-Export: Vorlagen für Terminserien
+
+- **Standardeinstellungen je Terminart:** Standardeinstellungen für den PDF-Export können jetzt direkt auf der Seite "Gremien" für jede Besprechugnsreihe separat hinterlegt werden.
+- **Ein-Klick-Export:** Die Einstellungen müssen nicht mehr bei jeder Besprechung neu konfiguriert werden – der Export erfolgt mit nur einem Klick.
+- **Deckblatt-Übernahme:** Deckblatt-Einstellungen werden jetzt automatisch aus dem letzten Meeting übernommen.
+
+#### 🏢 Multi-Projekt-Management
+
+- **Projektwechsel: **Bei mehreren Projekten ist es nun möglich, in den Einstellungen einfach zwischen den einzelnen Projekten zu wechseln.
 
 ### Verbesserungen
 
-#### 🛠️ Update-Datum beim Fortschreiben von Einträgen
-- Wenn ein Benutzer einen alten Eintrag vom letzten Meeting mit einem alten Datum in einem neueren Meeting fortschreibt, wird beim Drücken von Enter automatisch das aktuelle Datum in den Eintrag geschrieben.
+#### 🧭 Vereinfachung der Meeting-Navigation
 
-#### 🔍 Verbesserte Revisionslogic (Fortschreiben von Einträgen)
-- Sowohl in der Gesamtübersicht als auch in den einzelnen Gremien wird nun nur noch immer die aktuellste Version des Eintrags angezeigt. In der gesamten Aufgabenübersicht ebenfalls nur die neueste Version sichtbar. In den verschiedenen Meetings wird ein Eintrag immer mit der aktuellsten Revision angezeigt.
+- **Synchroniserung der Gliederung: **Die Gliederungsleiste ist jetzt mit den Themen und Einträgen synchronisiert und folgt in Echtzeit dem aktuellen Fokus des Nutzers.
+- **Ausgeblendete Themen:** Erledigte Themen werden jetzt – sofern die Option „Erledigte Themen anzeigen“ aktiviert ist – auch in der Protokolltabelle angezeigt und nicht mehr ausschließlich in der Gliederung.
+- **Themenfinder: **Der Themenfinder bleibt nun dauerhaft angezeigt
 
-<Warning>
-**Wichtig:** Einträge können nur noch im aktuellen Meeting gelöscht werden, oder dessen Updates.
-</Warning>
+#### 🔎 Detektiv
 
-#### 📋 Aufgabenlisten-Feature
-Separate Aufgabenverwaltung für bessere Übersicht:
-
-<Warning>
-**Dedizierte Aufgabenliste:** Alle Protokoll-Aufgaben in separater, übersichtlicher Liste
-</Warning>
-
-#### ⚙️ Gremium PDF-Export
-Man kann jetzt auf der Gremiumsseite Defaults für den PDF export festlegen.
-- **Default Settings:** Standardeinstellungen können dauerhaft hinterlegt werden
-- **Ein-Klick-Export:** Keine wiederholte Konfiguration bei jedem Meeting-Export erforderlich
-
-#### 🏢 Multi-Projekt-Management
-- Man kann jetzt in den Einstellungen zwischen verschiedenen Projekten wechseln, falls man mehrere Projekte hat.
-
-#### 🧭 Meeting-Navigation Verbessert
-- Die Gliederungsleiste ist nun mit den Themen und Einträgen gesynced und scrollt mit
-- Über das Aktivieren und Deaktivieren des Auges in der Gliederungsleiste, können auch ausgeblendete Themen in der Tabelle angezeigt werden
-
-#### 🎬 Meeting-Erstellung Optimierung
-Verbesserte Benutzerfreundlichkeit bei der manuellen Meeting-Erstellung:
-- **Intelligente Vorausfüllung:** Deckblatt-Informationen werden automatisch aus dem letzten Meeting übernommen
-
-#### 🪄 Zauberstab-Verbesserungen
-Erweiterte KI-Erkennung für präzisere Datenverarbeitung:
-- **Optimierte Update-Erkennung:** Bessere Identifikation von Informationen in Updates
-- **Erweiterte Stakeholder Erkennung:** Erkennt nun mehrere Verantwortliche
-
-#### 🔍 Intelligente Suche
-Keyword Search funktioniert immer
-- **Schlagwortsuche:** Wir finden jetzt immer zu 100% Schlagwörter, sowie Pre- und Postfixe die die Leute eingeben
+- **KI-Suche:** Unsere KI-Suche wurde um eine intelligente Schlagwortsuche erweitert: Sie erkennt jetzt auch zuverlässig alle relevanten Begriffe – inklusive individueller Prä- und Suffixe, die von Nutzer:innen eingegeben werden. So entgeht uns kein Suchbegriff mehr, egal wie er formuliert ist.
 
 ### Fehlerbehebungen
 
-- Rich Text Editor: Doppelklick-Funktionalität für Pop-ups korrigiert
-- PDF-Export-Überarbeitung: Umfassende Bugfixes und Stabilitätsverbesserungen
-- Kalenderwochen starten jetzt am Montag
+- **Textformatierung**: Ein Doppelklick führt nicht mehr dazu, dass das Textfeld verlassen wird
+- **PDF-Export:** Umfassende Bugfixes und Stabilitätsverbesserungen
+- **Kalender-Popups:** Kalenderwochen starten jetzt am Montag, nicht am Sonntag
 - Diverse kleinere Unstimmigkeiten in Darstellung und Bedienung wurden bereinigt.
