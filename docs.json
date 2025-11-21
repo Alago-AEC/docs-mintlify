@@ -71,9 +71,9 @@
             "pages": [
               "changelog/v2-7-0",
               "changelog/v2-6-0",
-              "changelog/v2-2-1",
               "changelog/v2-2-0",
-              "changelog/v2-1-0"
+              "changelog/v2-1-0",
+              "changelog/v2-0-0"
             ]
           }
         ]
