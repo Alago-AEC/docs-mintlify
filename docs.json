@@ -69,6 +69,7 @@
           {
             "group": "Changelog",
             "pages": [
+              "changelog/v2-8-0",
               "changelog/v2-7-0",
               "changelog/v2-6-0",
               "changelog/v2-2-0",
