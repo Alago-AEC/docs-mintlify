@@ -16,14 +16,25 @@
           "index"
         ]
       },
-      
+
+      {
+        "group": "Projekte",
+        "icon": "folder-tree",
+        "pages": [
+          "faq/projekte-verwalten",
+          "faq/rechte-verwalten",
+          "faq/mail-einstellungen",
+          "faq/logo-einstellungen"
+        ]
+      },
       {
         "group": "Gremien",
         "icon": "users",
         "pages": [
           "faq/gremium",
           "faq/projektbeteiligte",
-          "faq/gremium-anlegen"
+          "faq/gremium-anlegen",
+          "faq/pdf-exporteinstellungen"
         ]
       },
       {
@@ -69,6 +80,7 @@
           {
             "group": "Changelog",
             "pages": [
+              "changelog/v2-9-0",
               "changelog/v2-8-0",
               "changelog/v2-7-0",
               "changelog/v2-6-0",

@@ -1,6 +1,6 @@
 ---
 title: "Der PDF-Export"
-description: "Anleitung zum professionellen Export von Protokollen als PDF"
+description: "Anleitung zum professionellen Export von Agenden, Protokollen und Aufgabenlisten als PDF"
 ---
 
 ## PDF-Export eines einzelnen Protokolls
@@ -16,24 +16,40 @@ description: "Anleitung zum professionellen Export von Protokollen als PDF"
     Wählen Sie anschließend **„Exportieren“**.
   </Step>
   <Step title="Export-Einstellungen">
-    Es öffnet sich ein Fenster, in dem Sie den **Dateinamen** und den **Projektnamen** festlegen können.
+    Im Export-Dialog können Sie zwischen folgenden Optionen wählen:
+
+    - **Herunterladen** – erstellt eine PDF-Datei zum lokalen Download
+    - **Versenden** – erstellt eine neue E-Mail mit dem vorausgefüllten Mailtext
+    - **Link teilen** – erzeugt einen Viewer-Link (nur für Nutzer mit „Viewer“-Lizenz nutzbar)
+
+    Unter beiden Hauptoptionen können Sie entscheiden, ob Sie **Agenda**, **Protokoll** oder **Aufgaben** exportieren möchten.
   </Step>
-  <Step title="Format wählen">
-    Sie können zwischen **Hoch-** und **Querformat** wählen.
+  <Step title="PDF herunterladen (Agenda, Protokoll oder Aufgaben)">
+    Wenn Sie unter **„Herunterladen“** eine der Optionen auswählen:
+
+    1. Öffnet sich ein Dialog zum **Export der ausgewählten Liste**.
+    2. Sie können den **Dateinamen** anpassen.
+    3. Für **Protokoll** und **Aufgaben** können Sie außerdem auswählen, welche **Spalten im Export enthalten sein sollen** (z. B. Nummer, Beschreibung, Zuständige, Fälligkeit, Status).
+    4. Klicken Sie auf **„Herunterladen“**, um die PDF-Datei zu erzeugen.
   </Step>
-  <Step title="Spalten auswählen">
-    Zusätzlich lassen sich beliebige **Spalten aktivieren oder abwählen**, je nachdem, welche Inhalte im Export enthalten sein sollen.
+  <Step title="PDF per E-Mail versenden">
+    Wenn Sie unter **„Versenden“** **Agenda**, **Protokoll** oder **Aufgaben** auswählen:
+
+    1. Es öffnet sich automatisch Ihre **E-Mail-Anwendung** mit einer neuen Nachricht.
+    2. Der Mailtext wird anhand Ihrer **Mailvorlage** vorausgefüllt.
   </Step>
 </Steps>
 
+<Warning>
+  **Das PDF wird nicht automatisch angehängt.** Stattdessen wird es lokal heruntergeladen und muss manuell hinzugefügt werden.
+</Warning>
+
 <Info>
-Wenn Sie <b>alle Protokolle eines Gremiums</b> exportieren möchten, wählen Sie in der Protokollübersicht nicht ein einzelnes Protokoll, sondern das <b>gesamte Gremium</b> aus.
+  Wenn Sie alle Protokolle eines Gremiums exportieren möchten, wählen Sie in der Protokollübersicht nicht ein einzelnes Protokoll, sondern das gesamte Gremium aus.
 </Info>
 
 ## Demo-Ansicht
 
-<Card title="📹 Zur interaktiven Demo" href="https://app.arcade.software/flows/MAWI0KyOLq0BnG5YRgJ7/view" icon="play">
+<Card title="📹 Zur interaktiven Demo" icon="play" href="https://app.arcade.software/flows/MAWI0KyOLq0BnG5YRgJ7/view">
   Sehen Sie sich den PDF-Export in der Praxis an
 </Card>
-
-
