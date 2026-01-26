@@ -16,7 +16,6 @@
           "index"
         ]
       },
-
       {
         "group": "Projekte",
         "icon": "folder-tree",
@@ -75,12 +74,12 @@
       },
       {
         "group": "Updates",
-        "collapsible": true,
-        "collapsed": true,
         "pages": [
           {
             "group": "Changelog",
             "pages": [
+              "changelog/v3-0-1",
+              "changelog/v3-0-0",
               "changelog/v2-9-0",
               "changelog/v2-8-0",
               "changelog/v2-7-0",
@@ -92,25 +91,22 @@
           }
         ]
       },
-      
       {
         "group": "Häufig gestellte Fragen",
-        "collapsible": true,
-        "collapsed": true,
         "pages": [
-              {
-                "group": "FAQ",
-                "pages": [
-                  "faq/protokollkopf-faq",
-                  "faq/teilnehmer-anwesenheit",
-                  "faq/farbige-punkte",
-                  "faq/zauberstab-faq",
-                  "faq/punkt-schliessen-faq",
-                  "faq/themen-finder-faq",
-                  "faq/pdf-export-faq",
-                  "faq/gliederungsleiste-faq"
-                ]
-              }
+          {
+            "group": "FAQ",
+            "pages": [
+              "faq/protokollkopf-faq",
+              "faq/teilnehmer-anwesenheit",
+              "faq/farbige-punkte",
+              "faq/zauberstab-faq",
+              "faq/punkt-schliessen-faq",
+              "faq/themen-finder-faq",
+              "faq/pdf-export-faq",
+              "faq/gliederungsleiste-faq"
+            ]
+          }
         ]
       }
     ]
