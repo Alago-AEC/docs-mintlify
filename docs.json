@@ -63,12 +63,14 @@
       },
       {
         "group": "Detektiv",
+        "icon": "magnifying-glass",
         "pages": [
           "detektiv/index"
         ]
       },
       {
         "group": "Aufgabenmanagement",
+        "icon": "network-wired",
         "pages": [
           "aufgabenmanagement/index"
         ]
